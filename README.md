@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Vidit Khandelwal (he/him), a junior Computer Science major at DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am also looking for summer internships in software engineering and UI/UX design.**
+
+Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu).
+
+I am currently working on finishing up my new portfolio made using ReactJS, and learning more about AWS. 
+
+[![Vidit's's GitHub stats](https://github-readme-stats.vercel.app/api?username=csvidit&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csvidit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **csvidit/csvidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
