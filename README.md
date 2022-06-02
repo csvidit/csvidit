@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Vidit Khandelwal (he/him), a junior Computer Science major at DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am also looking for summer internships in software engineering and UI/UX design.**
+I am Vidit Khandelwal (he/him), a rising senior Computer Science major at DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am also looking for fall/winter/spring internships in Software Engineering, UI/UX design, and Product Management**
 
 Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu).
 
-I am currently working on finishing up my new portfolio made using ReactJS, and learning more about AWS. 
+I am currently working on finishing up my new portfolio made using ReactJS, learning more AWS, and creating a recipe book app called [Repertoire](https://github.com/csvidit/Repertoire). 
 
 [![Vidit's's GitHub stats](https://github-readme-stats.vercel.app/api?username=csvidit&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
