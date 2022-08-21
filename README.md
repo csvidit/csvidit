@@ -4,7 +4,7 @@ I am Vidit Khandelwal (he/him), a rising senior Computer Science major at DePauw
 
 Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am also looking for fall internships in Software Engineering, UI/UX design, and Product Management, and full-time roles for next year.**
 
-Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu). An alternative non-University email is vidit@viditkhandelwal.com
+Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu). An alternative non-University email is [vidit@viditkhandelwal.com](mailto:vidit@viditkhandelwal.com)
 
 In terms of personal projects, I am currently working on finishing up my new portfolio made using ReactJS, learning more AWS, and creating a recipe book app called [Repertoire](https://github.com/csvidit/Repertoire). 
 
