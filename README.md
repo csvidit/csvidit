@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Vidit Khandelwal (he/him), a rising senior Computer Science major at DePauw University in Greencastle, IN, and a software engineering intern at CaptureNoire, an early-age start-up in Indianapolis. I am currently studying abroad at the University of Oxford. 
+I am Vidit Khandelwal (he/him), a senior Computer Science major at DePauw University in Greencastle, IN, and a software development intern at CaptureNoire, an early-age start-up in Indianapolis. I am currently studying abroad at the University of Oxford. 
 
-Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am also looking for fall internships in Software Engineering, UI/UX design, and Product Management, and full-time roles for next year.**
+Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am looking for full-time roles in Software Engineering, UI/UX design, and Product Management.**
 
-Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu). An alternative non-University email is [vidit@viditkhandelwal.com](mailto:vidit@viditkhandelwal.com)
+Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu). An alternative non-University email is [vidit@viditkhandelwal.com](mailto:vidit@viditkhandelwal.com).
 
 In terms of personal projects, I am currently working on finishing up my new portfolio made using ReactJS, learning more AWS, and creating a recipe book app called [Repertoire](https://github.com/csvidit/Repertoire). 
 
