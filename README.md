@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vidit Khandelwal (he/him), a rising senior Computer Science major at DePauw University in Greencastle, IN, and a software engineering intern at CaptureNoire, an early-age start-up in Indianapolis. 
+I am Vidit Khandelwal (he/him), a rising senior Computer Science major at DePauw University in Greencastle, IN, and a software engineering intern at CaptureNoire, an early-age start-up in Indianapolis. I am currently studying abroad at the University of Oxford. 
 
 Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am also looking for fall internships in Software Engineering, UI/UX design, and Product Management, and full-time roles for next year.**
 
