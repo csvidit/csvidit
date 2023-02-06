@@ -10,7 +10,7 @@ In terms of personal projects, I am currently working on finishing up my new por
 
 [![Vidit's's GitHub stats](https://github-readme-stats.vercel.app/api?username=csvidit&count_private=true&theme=radical)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csvidit&layout=compact&theme=radical)]()
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csvidit&layout=compact&theme=radical)]() -->
 
 <!--
 **csvidit/csvidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
