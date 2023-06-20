@@ -8,7 +8,7 @@ Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw
 
 In terms of personal projects, I am currently working on finishing up my new portfolio made using NextJS, learning more AWS, and making small yet useful web apps. 
 
-[![Vidit's's GitHub stats](https://github-readme-stats.vercel.app/api?username=csvidit&count_private=true&theme=radical)]()
+<!--[![Vidit's's GitHub stats](https://github-readme-stats.vercel.app/api?username=csvidit&count_private=true&theme=radical)]() -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csvidit&layout=compact&theme=radical)]() -->
 
