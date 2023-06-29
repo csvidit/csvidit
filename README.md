@@ -2,7 +2,7 @@
 
 I am Vidit Khandelwal (he/him), a May 2023 graduate and Computer Science major at DePauw University in Greencastle, IN, and a past software development intern at CaptureNoire (part of Pixus, Inc.), an early-age start-up in Indianapolis. I also studied International Economics for a semester at the prestigious New College of the University of Oxford.
 
-Take a look around! For more, visit my portfolio [cs.viditkhandelwal.com](https://cs.viditkhandelwal.com). **I am looking for full-time roles in Software Engineering, UI/UX design, Web Development, and Product Management.**
+Take a look around! For more, visit my portfolio [viditkhandelwal.com](https://viditkhandelwal.com). **I am looking for full-time roles in Software Engineering, UI/UX design, Web Development, and Product Management.**
 
 Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu). An alternative non-University email is [vidit@viditkhandelwal.com](mailto:vidit@viditkhandelwal.com).
 
