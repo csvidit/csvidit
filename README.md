@@ -4,7 +4,7 @@ I am Vidit Khandelwal (he/him), a May 2023 graduate and Computer Science major a
 
 Take a look around! For more, visit my portfolio [viditkhandelwal.com](https://viditkhandelwal.com). I am particularly strong in Native Android app development and full-stack web development using the latest technologies, libraries, and frameworks. **I am looking for full-time roles in Software Engineering, UI/UX design, Web Development, and Product Management.**
 
-Reach me at [viditkhandelwal_2023@depauw.edu](mailto:viditkhandelwal_2023@depauw.edu). An alternative non-University email is [vidit@viditkhandelwal.com](mailto:vidit@viditkhandelwal.com).
+Reach me at [viditk17@gmail.com](mailto:viditk17@gmail.com). An alternative email is [vidit@viditkhandelwal.com](mailto:vidit@viditkhandelwal.com).
 
 In terms of personal projects, I am currently working on finishing up my new portfolio made using NextJS, learning more AWS, and making small yet useful web apps. 
 
