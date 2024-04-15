@@ -6,4 +6,4 @@ Take a look around! For more, visit my portfolio [viditkhandelwal.com](https://v
 
 Reach me at [viditk17@gmail.com](mailto:viditk17@gmail.com). An alternative email is [vidit@viditkhandelwal.com](mailto:vidit@viditkhandelwal.com).
 
-In terms of personal projects, I am working on Snippetopia, an open-source repository of useful web dev snippets, and v2 of Xzayvian, my full-fledged chatbot powered by OpenAI LLMs.
+In terms of personal projects, I am working on Snippetopia, an open-source repository of useful web dev snippets, Cerulean, a task management system, and smaller projects using Generative AI. Do check out my pinned projects below as well!
