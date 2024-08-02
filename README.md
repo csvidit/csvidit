@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Vidit Khandelwal (he/him), a May 2023 graduate and Computer Science major at DePauw University in Greencastle, IN, and a past software development intern at CaptureNoire (part of Pixus, Inc.), an early-age start-up in Indianapolis. I also studied International Economics for a semester at the prestigious New College of the University of Oxford.
+I am Vidit Khandelwal (he/him), a talented full-stack software engineer with experience working in the startup ecosystem in the United States. I am currently a Software Developer at DexTech, spearheading user-facing components of an upcoming B2B SaaS product, using Next.js, Python, and Google Cloud/Azure. I was previosuly a (contract) Software Development Engineer at Pixus Inc., where I worked on their flagship inclusive photography suite for the Android platform. 
+
+I am a May 2023 graduate of DePauw University in Greencastle, IN. I also studied International Economics for a semester at the prestigious New College of the University of Oxford.
 
 Take a look around! For more, visit my portfolio [viditkhandelwal.com](https://viditkhandelwal.com). I am particularly strong in Native Android app development and full-stack web development using the latest technologies, libraries, and frameworks. **I am looking for full-time roles in Software Engineering, UI/UX design, Web Development, and Product Management.**
 
