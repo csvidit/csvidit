@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vidit Khandelwal (he/him), a talented full-stack software engineer with experience working in the startup ecosystem in the United States. I am currently a Software Developer at DexTech, spearheading user-facing components of an upcoming B2B SaaS product, using Next.js, Python, and Google Cloud/Azure. I was previosuly a (contract) Software Development Engineer at Pixus Inc., where I worked on their flagship inclusive photography suite for the Android platform. 
+I am Vidit Khandelwal (he/him), a talented full-stack software engineer with experience working in the startup ecosystem in the United States. I am currently a Software Developer at DexTech, spearheading user-facing components of an upcoming B2B SaaS product, using Next.js, Python, and AWS. I was previosuly a (contract) Software Development Engineer at Pixus Inc., where I worked on their flagship inclusive photography suite for the Android platform. 
 
 I am a May 2023 graduate of DePauw University in Greencastle, IN. I also studied International Economics for a semester at the prestigious New College of the University of Oxford.
 
